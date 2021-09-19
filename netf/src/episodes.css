@@ -1,0 +1,27 @@
+.episodes--images
+{
+ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    margin-left: 92px;
+  
+}
+
+
+.episodes--images img{
+    height: 280px;
+    width: 490px;
+    margin: 5px;
+    border:"1px solid red"
+    
+}
+.episodes-title
+{
+    color:white;
+    font-weight: 800;
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 80px;
+}

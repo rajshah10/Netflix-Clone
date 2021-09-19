@@ -1,0 +1,67 @@
+.upcoming--banner
+{
+    background-color: black;
+    
+    height:100%;
+    
+}
+.upcoming--images
+{
+ 
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   margin-top: 25px;
+}
+
+.upcoming--images{
+  
+    width:"100%";
+    height:80vh
+}
+.upcoming-title
+{
+    color:white;
+    font-weight: 800;
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 50px;
+}
+.three_wrapper
+{
+    
+    
+    width:"33.3%";
+    position: absolute;
+    left:0;
+    margin-top: -240px;
+    display:flex;
+    margin-left:85px
+}
+.partOne
+{
+   
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    padding: 15px;
+}
+.partTwo
+{
+   
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    padding: 15px;
+    
+}
+.partThree
+{
+   
+    display:flex;
+    flex-direction: column;
+    width:30%;
+    padding: 15px;
+}

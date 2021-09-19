@@ -1,0 +1,24 @@
+.videos--section
+{
+   
+    height:"100%";
+    
+}
+.videos-title
+{
+    color:white;
+    font-weight: 800;
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 40px;
+}
+.video{
+    display: flex;
+   flex-wrap: wrap;
+    margin-left:100px;
+    
+}
+.react-player{
+    margin:5px;
+    margin-top:50px
+}
